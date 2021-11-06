@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**nikyn4ik/nikyn4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Nika</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
