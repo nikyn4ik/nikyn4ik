@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikyn4ik&label=Profile%20views&color=0e75b6&style=flat" alt="nikyn4ik" /> </p>
 
-- 👀 **C#**
-- 👀 **SQL Server**
+- 👀 **Visual Studio 2022 (WPF, C#)**
+- 👀 **SQL Server (Database)**
 
 - ⚡ Fun fact **I have two cute big cats**
 
