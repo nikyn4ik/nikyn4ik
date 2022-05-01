@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikyn4ik&label=Profile%20views&color=0e75b6&style=flat" alt="nikyn4ik" /> </p>
 
-- 👀 I’m interested in **C#**
+- 👀 **C#**
+- 👀 **SQL Server**
 
 - ⚡ Fun fact **I have two cute big cats**
 
