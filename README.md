@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikyn4ik&label=Profile%20views&color=0e75b6&style=flat" alt="nikyn4ik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikyn4ik" alt="nikyn4ik" /></a> </p>
-
 - 👀 I’m interested in **C#**
 
 - ⚡ Fun fact **I have two cute big cats**
