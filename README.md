@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I have two cute big cats**
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nikyn4ik)](https://github.com/ashutosh00710/github-readme-activity-graph)
+(https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikyn4ik&theme=solarized_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikyn4ik&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikyn4ik&show_icons=true&locale=en" alt="nikyn4ik" /></p>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=nikyn4ik&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikyn4ik&show_icons=true&locale=en" alt="nikyn4ik" /></p>
