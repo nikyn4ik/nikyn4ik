@@ -1,13 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Nika</h1>
-<h3 align="center">A sleeping developer from Russia</h3>
+<h1 align="center">The Sleepy Developer</h1>
 
+### Connect with me:
+<a href="https://telegram.me/nikyn4ik"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
+<a href="https://vk.com/nika_ulasik"><img alt="Vk" src="https://img.shields.io/twitter/url?label=V%20Kontakte&logo=Vk&style=social&url=https%3A%2F%2Fvk.com%2Fnika_ulasik"/></a>
 
-- 👀 **Visual Studio 2022 (WPF, C#)**
-- 👀 **SQL Server (Database)**
-
-- ⚡ Fun fact **I have two cute big cats**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikyn4ik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikyn4ik&show_icons=true&locale=en" alt="nikyn4ik" /></p>
+-  **Visual Studio 2022 (C#, Python)**
+-  **Microsoft SQL Server**
