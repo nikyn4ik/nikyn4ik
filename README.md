@@ -7,5 +7,5 @@
 <img alt="photo" src="https://img.shields.io/badge/lomography-000000?logo=lomography&logoColor=white"/></a>
   
 
--  **Visual Studio 2022 (C# (WPF, WinForms, .NET Framework) , Python)**
+-  **Visual Studio 2022 (C# (WPF, WinForms, .NET Framework) , Python, C++ (SFML)**
 -  **Microsoft SQL Server**
