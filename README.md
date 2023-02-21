@@ -1,5 +1,4 @@
-
-<h1 align="center">Sleeping Backend Developer</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000080&width=435&lines=Hi%2C+I'm+Nika+%5E3)](https://git.io/typing-svg)
 
 ### Connect with me:
 <a href="https://telegram.me/nikyn4ik"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
