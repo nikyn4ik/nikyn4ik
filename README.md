@@ -7,5 +7,5 @@
 <a href="mailto:nika.ulasik@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
--  **Visual Studio 2022 (C# (WPF, WinForms, .NET Framework) , Python, C++ (SFML))**
+-  **Visual Studio 2022 (C# (.NET), C++ (SFML)  Python)**
 -  **Microsoft SQL Server**
