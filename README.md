@@ -6,5 +6,5 @@
 <a href="https://telegram.me/nikyn4ik"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
 
 
--  **Visual Studio 2022 (C# (.NET), C++ (SFML)  Python)**
+-  **Visual Studio 2022 (C# (.NET (MAUI, WPF)), C++ (SFML)  Python)**
 -  **Microsoft SQL Server**
